@@ -22,12 +22,12 @@ Data Visualization: Matplotlib, Seaborn
 Data Processing: Feature engineering, data cleaning, and preprocessing
 Model Development: Classification algorithms, hyperparameter tuning, cross-validation
 
-📈 Model Performance
+Model Performance
 The ML model achieves: Accuracy: 88%
 
 Use the prediction system for delay forecasting
 
-🎓 Internship Project
+Internship Project
 This project was developed as part of an internship program, demonstrating practical application of machine learning in the aviation industry and showcasing skills in data science, predictive modeling, and business problem-solving.
 
-Developed during internship at [Company Name] | Machine Learning | Data Science | Aviation Technology
+Developed during internship at SmartBridge | Machine Learning | Data Science | Aviation Technology
